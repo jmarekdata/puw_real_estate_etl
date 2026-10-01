@@ -1,0 +1,12 @@
+# Baza danych i logi
+database/data/
+*.log
+
+# Środowiska wirtualne Pythona
+venv/
+.env
+
+# Śmieci systemowe i pliki tymczasowe
+__pycache__/
+*.pyc
+.DS_Store
